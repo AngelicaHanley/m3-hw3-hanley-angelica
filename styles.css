@@ -43,7 +43,7 @@ main{
     max-width: 200px;
     float: left;
     margin-right: 15px;
-    box-shadow: 5px 5px 15px 2px black;
+    box-shadow: 5px 5px 15px 2px rgb(5, 47, 126);
 }
 
 h2 {

@@ -76,7 +76,7 @@ h3{
     display: inline-block;
 }
 
-section > a {
+div > a {
     text-decoration: none;
 }
 
